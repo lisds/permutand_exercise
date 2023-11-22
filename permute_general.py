@@ -14,7 +14,9 @@ When you want to move onto the more advanced tests:
 
 Or - if you are brave, from the terminal command line:
 
-    pytest permute_general
+    pytest permute_general.py
+
+See the guide for installing and getting started with pytest: https://docs.pytest.org/en/7.4.x/getting-started.html
 """
 
 import numpy as np
